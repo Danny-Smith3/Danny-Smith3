@@ -2,7 +2,7 @@
 - I enjoy playing sports such including 🏀basketball, 🏈football, and ⛳️golf
 - My favorite foods are 🍣sushi, 🍜ramen, and 🌮tacos
 - I’m currently studying 💻computer science at Purdue University
-- I am apart of the Flutter Development Club at Purdue
+- I am a member of the Competitive Coding Club at Purdue
 - You can reach me at smithdrsiii@gmail.com
 
 <!---
