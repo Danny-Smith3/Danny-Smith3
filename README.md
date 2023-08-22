@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danny-Smith3
-- I enjoy playing sports such including 🏀basketball, 🏈football, and ⛳️golf
-- My favorite foods are 🍣sushi, 🍜ramen, and 🌮tacos
+- Some of the activities I enjoy include: 🏀basketball, 🏈football, ⛳️golf, and 🧗rock climbing
+- My favorite foods are 🍣sushi, 🥟dumplings, and 🌮tacos
 - I’m currently studying 💻computer science at Purdue University
 - You can reach me at smithdrsiii@gmail.com
 
